@@ -1,5 +1,5 @@
 # PinScreenCamera
-A nifty little [https://processing.org/](Processing) sketch that coverts video from a webcam to something not unlike Pin Art or a pinscreen in real time.
+A nifty little [Processing](https://processing.org/) sketch that coverts video from a webcam to something not unlike [Pin Art or a pinscreen](https://en.wikipedia.org/wiki/Pin_Art) in real time.
 
 This works by taking the the video from the webcame and shrinking it down so that each pixel of the resulting image matches a virtual pin. The pin is then moved closer to the camera depending on how bright the resulting pixel is. 
 
