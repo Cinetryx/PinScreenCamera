@@ -7,4 +7,4 @@ This works by taking the the video from the webcame and shrinking it down so tha
 
 Pressing any key will start to save each frame as an image to the same directory as the sketch. With those you can make movies or GIFs.
 
-This can be ran by just placing all of the .pde files in a directory then opening one of them in Processing. Have fun!
+This can be ran by just placing all of the .pde files in a directory then opening one of them in Processing (Though PinArtCamera.pde) is the best place to start. Have fun!
